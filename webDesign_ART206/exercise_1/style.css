@@ -35,6 +35,9 @@ body{
 	text-align: center;
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
 }
+.title{
+	text-align: left;
+}
 .body_text{
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	margin-top: 20px;

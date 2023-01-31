@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document */
+*{margin: 0; box-sizing: border-box;padding:0;}
+body{background-color:#8D5FBD}
+a {text-decoration: none;}
+nav {
+	background-color: #D0AAF7;
+	width: 15%;
+	height: 100%;
+	display: inline-block;
+	position: sticky;
+	top: 0;
+	left: 0;	
+}
+#logo_box{
+	display: inline-block;
+	height: 60px;
+	width: 100%;
+	text-align: center;
+}
+#logo_box img{
+	height: 100%;
+	width:92px;
+}
+.unorderList{
+	background-color: red;
+	list-style-type: none;
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	vertical-align: top;
+}
+
+li {
+	display: block;
+	/*background-color: #D262E0;*/
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-size: 16px;
+	color: #6509C2;
+}
+li:hover {
+	background: #6509C2;
+	color: #540F9B;
+}
+#shop:hover {
+	background-color: yellow;
+	background: pink;
+	color: yellowgreen;
+
+}
+
+
+
+nav input[type=text]{
+	display: block;
+	height: 60px;
+	width: 100%;
+	vertical-align: top;
+	font-size: 16px;
+	padding-left: 5%;
+	
+}
+wrapper {
+	display: inline-block;
+	width: 84%;
+	height: 1000px;
+	background-color:#B7A3CC;
+	vertical-align: top;
+	padding-top: 40px;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.main_heading {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #540F9B;
+	font-size: 60px;
+	margin-bottom:  20px;
+	font-variant-caps: small-caps;
+}
+.body_text{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 10px;
+	margin-right: 2%;
+	float: left;
+}
+.img_right {
+	width: 35%;
+	height: auto;
+}
+footer {
+	background-color: #D0AAF7;
+	height: 80px;
+	text-align: center;
+	padding-top: 30px;
+}
+.footer_text {
+	color: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 5% 0 5%;
+	
+}
+hr {
+	background-color: #6509C2;
+	height: 2px;
+	width: 35%;
+	border: none;
+	display: inline-block;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
